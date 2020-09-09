@@ -71,7 +71,7 @@
 <distributionManagement>
         <snapshotRepository>
             <id>BNY</id>
-            <url>http://52.251.51.114:8081/repository/BNY/</url>
+            <url>add url here </url>
         </snapshotRepository>
 </distributionManagement>
 
